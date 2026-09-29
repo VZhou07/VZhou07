@@ -1,4 +1,4 @@
-![Vincent Zhou — Robotics, vision, and systems](assets/banner.svg)
+![Vincent Zhou — Robotics, AI, backend, and systems](assets/banner.svg)
 
 <p align="center">
   <a href="https://vincentzhou.tech"><img alt="vincentzhou.tech" src="https://img.shields.io/badge/vincentzhou.tech-0D1418?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FFB44A" /></a>
